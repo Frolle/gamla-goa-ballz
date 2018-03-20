@@ -1,0 +1,25 @@
+GameView lyssnar på tangentbordsknappar.
+När en viss knapp trycks ner meddelar GameView detta till Controller
+genom att anropa Controller.calculatePaddleAction(in paddelMovement: int)
+och skicka med rätt siffra enligt nedanstående tabell.
+
+Player one:
+# upp = 1
+# ner = 2
+
+Player two:
+# upp = 3
+# ner = 4
+
+Player three:
+# upp = 5
+# ner = 6
+
+Player four:
+# upp = 7
+# ner = 8
+
+Det är upp till progermmeraren av GameView att välja vilka tangenter
+som ska användas av spelarna för att styra paddlarna och att skapa
+logiken för detta så att rätt siffra skickas till
+Controller.calculatePaddleAction(in paddelMovement: int).

@@ -1,0 +1,50 @@
+
+
+cl1:Actor "Spelare"
+cl2:main "MainPong"
+cl3:class "GameMenu"
+cl4:class "GameView"
+cl5:class "GameModel"
+cl6:class "Player"
+cl7:class "GameChanger"
+cl8:class "Controller"
+cl9:class "AI"
+cl10:class "Paddle"
+cl11:class "Wall"
+cl12:class "Ball"
+cl13:class"EndMenu"
+cl14:class "HighScoreHandler"
+cl15:class "EndMenu"
+
+
+//Starta ett spel
+cl1:cl2.initGame();
+cl2:cl3.GameMenu();
+cl2:cl1. GUI: "How many players?"
+cl1:cl3.numberOfPlayers;
+cl3:cl4.numberOfPlayers;
+cl3:cl5.numberOfPlayers;
+cl3:cl1.Färdig
+
+
+//Flytta på paddel
+
+
+cl1:cl8.KeyboardListener();
+cl8:cl5.calculatePaddleAction();
+cl5:cl4.updatePaddle();
+cl4:cl10.move();
+cl8:cl1.Färdig
+
+
+//Boll träffar paddel
+cl1:cl5.collisionDetect();
+cl5:cl10.getPosition
+cl5:cl12.getPosition
+cl5:cl15.ifMiss();
+cl5:cl1.thenEnd();
+
+
+
+
+

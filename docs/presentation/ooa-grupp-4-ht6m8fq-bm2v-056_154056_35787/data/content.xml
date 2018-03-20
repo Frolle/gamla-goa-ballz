@@ -1,0 +1,528 @@
+<zuiprezi>
+  <version>4</version>
+  <zui-table>
+    <settings>
+      <autoplay>
+        <delay>4000</delay>
+      </autoplay>
+      <bounds x="-31268.759548187256" y="-28083.996769332887" width="58892.45419883728" height="58436.03589305878"/>
+    </settings>
+    <object id="0" type="button" x="-17560.6" y="-18842.65" r="0" s="13.393256187438965" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1994.0858471634667</w>
+        <h>1380.05</h>
+      </size>
+    </object>
+    <object id="1_3238647" type="button" x="-22985.15" y="-15533.15" r="0" s="12.429742813110352" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1154.554929577465</w>
+        <h>389.5500000000002</h>
+      </size>
+    </object>
+    <object id="1" type="label" x="-22943.8" y="-15519.4" r="0" s="24.670240402221676" class="head">
+      <textfield>
+        <x>-201.65</x>
+        <y>-83.65</y>
+        <text><![CDATA[PONG
+Ett spel av grupp 4
+
+Objektorienterade applikationer
+DAT055, lp 3 2012]]></text>
+        <annotations>r0-5 { align: center; }
+r5-25 { align: center; }
+r26-58 { align: center; }
+r58-75 { align: center; }</annotations>
+        <w>403.25</w>
+        <h>167.25</h>
+      </textfield>
+    </object>
+    <object id="0_3238647" type="button" x="-10703.899999999998" y="-15528.3" r="0" s="12.246406555175781" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>667.6923076923077</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="6_3238647" type="button" x="11985.15" y="-18838.45" r="0" s="28.73207664489746" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>929.1005291005292</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="5_3238647" type="image" x="6365.6" y="-19553.25" r="0" s="11.093928337097168">
+      <source w="877" h="655">112396696.png<url>112396696.png</url>
+      </source>
+    <resource><id>
+        112396696
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/3/3/ec8766fbf3d7220a227a176d5d7c9c357fd27.png</url></resource></object>
+    <object id="2" type="label" x="-10377.15" y="-15407.45" r="0" s="24.060701370239258" class="strong">
+      <textfield>
+        <x>-129.4</x>
+        <y>-132.6</y>
+        <text><![CDATA[Gruppdeltagare
+Daniel Kvist
+Dina Zuko
+Patrik Thitusson
+Simon Fransson
+Gustav Werlinder
+Markus Schützer
+Anders Emanuelsson]]></text>
+        <annotations>r0-15 { align: left; }
+r15-28 { bullet: true; }
+r15-28 { align: left; }
+r15-28 { blockIndent: 36; }
+r28-38 { bullet: true; }
+r28-38 { align: left; }
+r28-38 { blockIndent: 36; }
+r38-55 { bullet: true; }
+r38-55 { align: left; }
+r38-55 { blockIndent: 36; }
+r55-70 { bullet: true; }
+r55-70 { align: left; }
+r55-70 { blockIndent: 36; }
+r70-87 { bullet: true; }
+r70-87 { align: left; }
+r70-87 { blockIndent: 36; }
+r87-103 { bullet: true; }
+r87-103 { align: left; }
+r87-103 { blockIndent: 36; }
+r103-121 { bullet: true; }
+r103-121 { align: left; }
+r103-121 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="2_3238647" type="button" x="18046.25" y="-19619.55" r="0" s="12.081669807434082" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>828.6518950437319</w>
+        <h>601.85</h>
+      </size>
+    </object>
+    <object id="3_3238647" type="label" x="18451.7" y="-18988.7" r="0" s="17.987533569335938" class="body">
+      <textfield>
+        <x>-230.8</x>
+        <y>-116.3</y>
+        <text><![CDATA[Val: 1-4 spelare
+1 spelare - möter AI
+3 "liv"
+Poängräkning
+Spelförändrare - ändrar bollstorlek
+Fysik tillämpat
+Highscore - hämtas och sparas från/på fil]]></text>
+        <annotations>r0-17 { align: left; }
+r17-38 { align: left; }
+r38-46 { align: left; }
+r46-59 { align: left; }
+r59-95 { align: left; }
+r95-111 { align: left; }
+r111-152 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="4_3238647" type="label" x="17555.75" y="-21548.9" r="0" s="17.987533569335938" class="head">
+      <textfield>
+        <x>-111</x>
+        <y>-18.35</y>
+        <text><![CDATA[Några egenskaper]]></text>
+        <annotations>r0-16 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="8_3238647" type="label" x="11985.65" y="-25125.2" r="0" s="70.24578094482422" class="head">
+      <textfield>
+        <x>-127.2</x>
+        <y>-18.35</y>
+        <text><![CDATA[Spelpresentation]]></text>
+        <annotations>r0-16 { align: center; }</annotations>
+        <w>254.35</w>
+        <h>36.65</h>
+      </textfield>
+    </object>
+    <object id="9_3238647" type="button" x="11990.95" y="-13170.55" r="0" s="3.667995691299438" class="circle">
+      <type>circle</type>
+      <size>
+        <w>1247.5499999999995</w>
+        <h>1247.5499999999995</h>
+      </size>
+    </object>
+    <object id="10_3238647" type="label" x="11984.8" y="-13164.050000000003" r="0" s="30.18619155883789" class="head">
+      <textfield>
+        <x>-31.4</x>
+        <y>-18.35</y>
+        <text><![CDATA[start]]></text>
+        <annotations>r0-5 { align: left; }</annotations>
+        <w>62.75</w>
+        <h>36.65</h>
+      </textfield>
+    </object>
+    <object id="0_3291099" type="button" x="-17557.05" y="612" r="0" s="30.735431671142578" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>856.9190600522193</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="1_3291099" type="label" x="-17115.8" y="-23577.15" r="0" s="70.24577331542969" class="head">
+      <textfield>
+        <x>-123.3</x>
+        <y>-18.35</y>
+        <text><![CDATA[Projektpresentation]]></text>
+        <annotations>r0-19 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="2_3291099" type="label" x="-17853.05" y="-6205.099999999999" r="0" s="39.00032424926758" class="head">
+      <textfield>
+        <x>-103.1</x>
+        <y>-18.35</y>
+        <text><![CDATA[Modell - struktur]]></text>
+        <annotations>r0-17 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="12_3291099" type="button" x="-25789.35" y="-1088.9499999999998" r="0" s="10.416391372680662" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>696</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="7_3291099" type="image" x="-25789.35" y="-1420.6" r="0" s="17.080961227416992">
+      <source w="327" h="314">112427065.png<url>112427065.png</url>
+      </source>
+      <sourceUrl>http://i1.asp.net/asp.net/images/mvc/21/image001.png</sourceUrl>
+    <resource><id>
+        112427065
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/c/0/7/a22a967b0a1dc4c1d83956224ec96d995fe1c.png</url></resource></object>
+    <object id="10_3291099" type="button" x="-17823.3" y="-1092.0499999999997" r="0" s="9.73686695098877" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>774.7368421052631</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="8_3291099" type="image" x="-17823.85" y="-1059.3499999999997" r="0" s="9.275978088378904">
+      <source w="776" h="603">112427558.jpg<url>112427558.jpg</url>
+      </source>
+      <sourceUrl>Paketdiagram2.jpg</sourceUrl>
+    <resource><id>
+        112427558
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/7/c/1cf4033a6de3e160e3928fa39e328d6d9b71f.jpg</url></resource></object>
+    <object id="13_3291099" type="button" x="-9686.600000000002" y="-1085.8499999999997" r="0" s="9.843247413635254" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>686.7052023121387</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="9_3291099" type="image" x="-9686.600000000002" y="-1085.8499999999997" r="0" s="5.17999792098999">
+      <source w="1258" h="1135">112427585.jpg<url>112427585.jpg</url>
+      </source>
+      <sourceUrl>Klassdiagram2.jpg</sourceUrl>
+    <resource><id>
+        112427585
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/b/a/bb22a2f74fa3dad453631a7dbda9aee7ad9bc.jpg</url></resource></object>
+    <object id="14_3291099" type="label" x="-25644.1" y="1666.6000000000001" r="0" s="10.043760299682615" class="body">
+      <textfield>
+        <x>-120.3</x>
+        <y>-34.65</y>
+        <text><![CDATA[Model - observable
+View - observer]]></text>
+        <annotations>r0-19 { align: left; }
+r19-34 { align: center; }</annotations>
+        <w>240.6</w>
+        <h>69.3</h>
+      </textfield>
+    </object>
+    <object id="17_3291099" type="button" x="-17400.3" y="21290.45" r="0" s="33.16226577758789" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>836.3563432835821</w>
+        <h>546.5125</h>
+      </size>
+    </object>
+    <object id="16_3291099" type="label" x="-16986.3" y="14750.050000000001" r="0" s="71.70460510253906" class="head">
+      <textfield>
+        <x>-107.85</x>
+        <y>-18.35</y>
+        <text><![CDATA[Arbetet i gruppen]]></text>
+        <annotations>r0-17 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="18_3291099" type="label" x="-16993.05" y="22672.75" r="0" s="36.68070220947266" class="body">
+      <textfield>
+        <x>-276</x>
+        <y>-132.6</y>
+        <text><![CDATA[Bra samarbete
+Inledningsvis mycket planering - gav resultat
+Arbetsfördelning i grupper om 1-3 personer
+Mycket diskussioner under mötena - lite programmering
+Trots ojämn kunskapsnivå - god vilja har gjort att alla bidragit.
+God stämning och mycket humor]]></text>
+        <annotations>r0-14 { bullet: true; }
+r0-14 { align: left; }
+r0-14 { blockIndent: 36; }
+r14-60 { bullet: true; }
+r14-60 { align: left; }
+r14-60 { blockIndent: 36; }
+r60-103 { bullet: true; }
+r60-103 { align: left; }
+r60-103 { blockIndent: 36; }
+r103-157 { bullet: true; }
+r103-157 { align: left; }
+r103-157 { blockIndent: 36; }
+r157-223 { bullet: true; }
+r157-223 { align: left; }
+r157-223 { blockIndent: 36; }
+r223-252 { bullet: true; }
+r223-252 { align: left; }
+r223-252 { blockIndent: 36; }</annotations>
+        <w>552</w>
+        <h>265.2</h>
+      </textfield>
+    </object>
+    <object id="22_3291099" type="button" x="13955.05" y="21292.85" r="0" s="29.477344512939453" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>927.4238227146814</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="21_3291099" type="label" x="14474.15" y="13353.75" r="0" s="20.27041244506836" class="head">
+      <textfield>
+        <x>-157.2</x>
+        <y>-18.35</y>
+        <text><![CDATA[Arbetssätt - för/nackdelar]]></text>
+        <annotations>r0-26 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="23_3291099" type="label" x="14218.75" y="15451.95" r="0" s="61.968238830566406" class="head">
+      <textfield>
+        <x>-199.8</x>
+        <y>-18.35</y>
+        <text><![CDATA[Tack för att Ni ville lyssna på oss!]]></text>
+        <annotations>r0-36 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="24_3291099" type="label" x="14218.35" y="20164.1" r="0" s="46.92326354980468" class="body">
+      <textfield>
+        <x>-93.75</x>
+        <y>-34.65</y>
+        <text><![CDATA[Övriga frågor
+Opponering]]></text>
+        <annotations>r0-14 { bullet: true; }
+r0-14 { align: left; }
+r0-14 { blockIndent: 36; }
+r14-24 { bullet: true; }
+r14-24 { align: left; }
+r14-24 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+  </zui-table>
+  <path>
+    <o>0</o>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('OpenSans.swf');
+	fontFamily: body;
+}
+
+@font-face
+{
+	src: url('OpenSans-B.swf');
+	fontFamily: head;
+}
+
+@font-face
+{
+	src: url('OpenSans-I.swf');
+	fontFamily: strong;
+}
+
+ZLabel
+{
+	padding: 1.2;
+}
+
+ZLabel.head
+{
+	fontFamily: head;
+	color: #000;
+}
+
+.line5
+{
+	gradStartColor: #333;
+	gradEndColor: #333;
+	color: #333;
+}
+
+.poly5
+{
+	gradEndColor: #333;
+	borderColor: #333;
+	gradStartColor: #333;
+	borderThickness: 0;
+}
+
+ZLabel.strong
+{
+	fontFamily: strong;
+	color: #f00;
+}
+
+.line1
+{
+	gradStartColor: #f00;
+	gradEndColor: #f00;
+	color: #f00;
+}
+
+.poly1
+{
+	gradEndColor: #f00;
+	borderColor: #f00;
+	gradStartColor: #f00;
+	borderThickness: 0;
+}
+
+ZLabel.body
+{
+	fontFamily: body;
+	color: #333;
+}
+
+Background
+{
+	gradEnd: #fff;
+	gradStart: #fff;
+}
+
+Grid
+{
+	color: #ccc;
+}
+
+ZFrame.circle
+{
+	borderColor: #f66;
+	gradEndColor: #f00;
+	gradStartColor: #f00;
+	borderThickness: 0;
+}
+
+.line4
+{
+	gradStartColor: #f00;
+	gradEndColor: #f00;
+	color: #f00;
+}
+
+.poly4
+{
+	borderColor: #f00;
+}
+
+ZFrame.bracket
+{
+	thickness: 7;
+	gradEndColor: #c5c3c3;
+	borderColor: #fff;
+	gradStartColor: #c5c3c3;
+	borderThickness: 0;
+}
+
+.line2
+{
+	gradStartColor: #efefef;
+	gradEndColor: #efefef;
+	color: #efefef;
+}
+
+.poly2
+{
+	gradEndAlpha: 1;
+	gradEndColor: #efefef;
+	borderColor: #efefef;
+	gradStartColor: #efefef;
+	borderThickness: 0;
+	gradStartAlpha: 0.9;
+}
+
+ZFrame.roundrect
+{
+	gradEndColor: #ccc;
+	gradEndAlpha: 0.7;
+	borderThickness: 0;
+	gradStartAlpha: 0.6;
+	radius: 0;
+	borderColor: #fff;
+	gradStartColor: #e6e6e6;
+}
+
+ZPoly
+{
+	thickness: 100;
+	borderAlpha: 1;
+	radius: 0;
+	lockTintAlpha: 0.6;
+	gradEndAlpha: 0.7;
+	gradStartAlpha: 0.6;
+}
+
+ZCircle
+{
+	thickness: 100;
+	borderAlpha: 1;
+	radius: 0;
+	lockTintAlpha: 0.6;
+}
+
+ZArrow
+{
+	gradEndColor: #f00;
+	borderColor: #fff;
+	gradStartColor: #f00;
+	borderThickness: 0;
+}
+
+.line3
+{
+	gradStartColor: #c5c3c3;
+	gradEndColor: #c5c3c3;
+	color: #c5c3c3;
+}
+
+.poly3
+{
+	gradEndColor: #c5c3c3;
+	borderColor: #c5c3c3;
+	gradStartColor: #c5c3c3;
+	borderThickness: 0;
+}
+
+ZLine
+{
+	color: #c5c3c3;
+}
+
+ZCurveLine
+{
+	color: #f00;
+}
+
+ZMarker
+{
+	alpha: 0.3;
+	color: #ffff0d;
+}
+
+ZVideo
+{
+	padding: 1.2;
+}
+
+]]></style>
+  <hash>a28f05cf15c04ea5b4af2e0e2b7ff1e2</hash>
+<sync><oid>ht6m8fq-bm2v</oid><hash>a28f05cf15c04ea5b4af2e0e2b7ff1e2</hash></sync><config>f0YGYSk/18SSqudKGNiPDsgQoRBevXevcBlG0yPEgLJWdSfXlu7e1t3aUBgwK5bWlnI8f8xIaRW/QiUiljbnBsgM+Od/M8stWwoLJV0qTNdM5Vc4zrDu3Nj+KBF3MK7JVKOURMJzw0tPUvXnOLYPWmhZi612xBlHqqBSfdw60ZzfasaJ5j/k9+0+ImPI69E68lQ95Tn/pJxXHg/cJzW/HCQVCfHyV9eXdSsbAUUOfjwA6W1rga9vTcEdaxDpM7o0hA4ym2eYS8Ev6oc57eezGRE3uZTZTv0eXa08qC+R2aRRMllCzoKF7ZrP6OW5RwSxdpKkRd+4Ynmir3uOU/N4gA==</config></zuiprezi>
